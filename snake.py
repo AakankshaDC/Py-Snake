@@ -19,7 +19,7 @@ def init():
 
 def game_logic(window, snake, food):
 	# window = init()
-	window.addch(food[0],food[1],curses.ACS_PI);
+	window.addch(food[0],food[1],curses.ACS_PI)
 	ESC = 27
 	score = 0
 
