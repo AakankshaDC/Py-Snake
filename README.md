@@ -1,5 +1,5 @@
 # Py-Snake
-Play The Old-school Snake Game on your Terminal!!
+Play the old-school game 'Snake' on your Terminal!!
 
 ![snake](https://github.com/user-attachments/assets/26455247-f19a-4ccf-a5ba-1196b58a8377)
 
