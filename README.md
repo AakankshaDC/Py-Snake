@@ -1,7 +1,7 @@
 # Py-Snake
 Play The Old-school Snake Game on your Terminal!!
 
-<img width="485" alt="snake" src="https://github.com/user-attachments/assets/47b1064d-5d0b-4101-aae8-e0aa43f688ee" />
+![snake](https://github.com/user-attachments/assets/26455247-f19a-4ccf-a5ba-1196b58a8377)
 
 # Steps!
 1. clone the repo locally using `git clone git@github.com:AakankshaDC/Py-Snake.git`
